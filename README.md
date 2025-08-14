@@ -1,6 +1,6 @@
 # 💄 Cosmetic Company Digital Traffic Analysis – Case Study
 
-![Data Analysis Badge](https://img.shields.io/badge/Data%20Analysis-Python%20%7C%20Excel%20%7C%20Visualization-blue)
+![Data Analysis Badge](https://img.shields.io/badge/Data%20Analysis-Python%20%7C%20Excel%20%7C%20PowerBI-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
@@ -16,7 +16,7 @@ Using the provided dataset, we identified patterns in:
 - Search behavior
 - Traffic timing
 
-The findings are compiled into a **PowerPoint presentation** for clear and engaging storytelling.
+The findings were visualized and presented using **Power BI** to clearly communicate insights during the judging session.
 
 ---
 
@@ -58,7 +58,7 @@ The findings are compiled into a **PowerPoint presentation** for clear and engag
 | Purpose             | Tools Used                  |
 |---------------------|-----------------------------|
 | Data Analysis       | Excel / CSV Analysis        |
-| Visualization       | Microsoft PowerPoint        |
+| Visualization       | **Power BI**                |
 | Documentation       | Markdown, GitHub            |
 
 ---
@@ -68,11 +68,12 @@ The findings are compiled into a **PowerPoint presentation** for clear and engag
 - Strategies to reduce cart abandonment
 - Insights to optimize marketing during peak hours
 - Data-driven recommendations for mobile & web platforms
+- **Interactive Power BI dashboard** used to communicate findings effectively to judges
 
 ---
 
 ## 🚀 Future Scope
-- Create an interactive dashboard for live tracking
+- Create a live-connected Power BI dashboard for real-time tracking
 - Perform predictive analysis for sales forecasting
 - Enhance personalization via customer segmentation
 
@@ -80,10 +81,7 @@ The findings are compiled into a **PowerPoint presentation** for clear and engag
 
 ## 👤 Author
 **Prathima S**  
-📧 prathimaselvaraj15@gmail.com 
-🔗[GitHub](https://github.com/Prathima-15)
+📧 prathimaselvaraj15@gmail.com  
+🔗 [GitHub](https://github.com/Prathima-15)
 
 ---
-
-
-## 📂 Repository Structure
